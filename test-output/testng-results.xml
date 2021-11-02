@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-01T12:47:11 IST" name="Default suite" finished-at="2021-11-01T12:48:42 IST" duration-ms="90862">
+    <groups>
+    </groups>
+    <test started-at="2021-11-01T12:47:11 IST" name="Default test" finished-at="2021-11-01T12:48:42 IST" duration-ms="90862">
+      <class name="admintest.visitortest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:admintest.visitortest@28f3b248]" started-at="2021-11-01T12:47:11 IST" name="setup" finished-at="2021-11-01T12:48:30 IST" duration-ms="78509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addvistortest()[pri:0, instance:admintest.visitortest@28f3b248]" started-at="2021-11-01T12:48:30 IST" name="addvistortest" finished-at="2021-11-01T12:48:42 IST" duration-ms="12143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addvistortest -->
+      </class> <!-- admintest.visitortest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
